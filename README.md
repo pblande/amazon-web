@@ -1,10 +1,10 @@
 ## Amazon web clone
 
-i have cratrd the amazon web clone using html and css
+Amazon web UI clone for homepage using html and css
 
 ### liberrirs / languges used
-- html
-- css
+- HTML
+- CSS
 
 ### Author 
 Name-Pratik Lande
