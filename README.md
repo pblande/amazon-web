@@ -1,8 +1,8 @@
 ## Amazon web clone
 
-Amazon web UI clone for homepage using html and css
+Amazon web UI clone for homepage using html and CSS
 
-### liberrirs / languges used
+### libs / languages used
 - HTML
 - CSS
 
